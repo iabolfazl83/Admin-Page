@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92fde1d4-5fa6-474b-a08b-e4f0617bf561" name="Changes" comment="first final version of admin page" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GAzTAWdN2Mx3cSjQ1e8zEvlSUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92fde1d4-5fa6-474b-a08b-e4f0617bf561" name="Changes" comment="" />
+      <created>1665846182467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665846182467</updated>
+      <workItem from="1665846184251" duration="3619000" />
+      <workItem from="1665941681602" duration="1619000" />
+      <workItem from="1665945466504" duration="3794000" />
+      <workItem from="1666192912297" duration="7093000" />
+      <workItem from="1666293502260" duration="5163000" />
+      <workItem from="1666381489450" duration="728000" />
+      <workItem from="1666386708360" duration="1677000" />
+      <workItem from="1666600698083" duration="6412000" />
+      <workItem from="1666621142182" duration="3094000" />
+      <workItem from="1666634380098" duration="2579000" />
+      <workItem from="1666639256979" duration="1844000" />
+      <workItem from="1666710125150" duration="3982000" />
+      <workItem from="1666729294029" duration="2141000" />
+      <workItem from="1666817538346" duration="2747000" />
+      <workItem from="1666892468430" duration="2283000" />
+      <workItem from="1666951048306" duration="8614000" />
+      <workItem from="1666979988949" duration="6832000" />
+      <workItem from="1667123034364" duration="20454000" />
+      <workItem from="1667243240205" duration="1692000" />
+      <workItem from="1667248939122" duration="2024000" />
+      <workItem from="1667396727809" duration="6772000" />
+      <workItem from="1667407187577" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
