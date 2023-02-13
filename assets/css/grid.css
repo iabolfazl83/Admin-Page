@@ -23,11 +23,19 @@ a {
     background-color: #ffffff;
 }
 
+.search-wrapper {
+    margin: 0 !important;
+}
+
 .search-area {
     background-color: #dcdcdc;
     color: #000000;
     border-radius: 2rem;
     padding: 0.5rem;
+}
+
+.search-area input {
+    transition: all 0.3s;
 }
 
 .search-input {
@@ -39,7 +47,7 @@ a {
 
 .header-notification {
     position: absolute;
-    left: 0;
+    left: -190px;
     margin-top: .2rem;
     width: 16rem;
     color: #000000;
@@ -73,6 +81,7 @@ a {
 
 .header-comment {
     position: absolute;
+    left: -155px;
     height: calc(100vh - 6rem);
     width: 18rem;
     background-color: #FFFFFF;
@@ -129,6 +138,16 @@ a {
     margin-left: 3rem;
 }
 
+@media (min-width: 576px) {
+    .search-wrapper {
+        margin: 0 1rem !important;
+    }
+
+    .header-profile-wrapper {
+        margin: 0 1rem !important;
+    }
+}
+
 @media (min-width: 767.98px) {
     .margin-left {
         margin-left: 3rem !important;
@@ -159,28 +178,16 @@ a {
         display: none;
         width: 100%;
     }
+
 }
 
 .body-container {
-    /*margin-top: 3.5rem;*/
-    /*display: flex;*/
-    /*z-index: 9999;*/
-    /*width: calc(100% - 14rem);*/
-    /*min-height: calc(100vh - 3.5rem);*/
-    /*float: left;*/
     margin-top: 3.5rem;
     z-index: 100000;
     display: flex;
 }
 
 .side-bar {
-    /*position: fixed;*/
-    /*right: 0;*/
-    /*top: 3.5rem;*/
-    /*width: 14rem;*/
-    /*background-color: #404E67;*/
-    /*height: calc(100% - 3.5rem);*/
-    /*overflow: auto;*/
     z-index: 99;
     flex: 0 0 14rem;
     background-color: #404E67;
@@ -304,9 +311,6 @@ button:hover {
 }
 
 .main-body {
-    /*background-color: #f3f3f3;*/
-    /*padding: 1rem;*/
-    /*z-index: 9;*/
     width: calc(100% - 14rem);
     padding: 1rem;
     min-height: calc(100vh - 3.5rem);

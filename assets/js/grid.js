@@ -121,6 +121,7 @@ $(document).ready(function () {
         $(".compress").addClass('d-none')
         $(".expand").removeClass('d-none')
     }
+
     let postsIsOpen = false;
     let usersIsOpen = false;
     let settingsIsOpen = false;
